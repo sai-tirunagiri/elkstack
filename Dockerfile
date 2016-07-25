@@ -8,7 +8,7 @@
 # docker run -p 5601:5601 -p 9200:9200 -p 5044:5044 -p 5000:5000 -it --name elk <repo-user>/elk
 
 FROM phusion/baseimage
-MAINTAINER Sebastien Pujadas http://pujadas.net
+MAINTAINER Sai Prasad TN
 ENV REFRESHED_AT 2016-07-10
 
 ###############################################################################
